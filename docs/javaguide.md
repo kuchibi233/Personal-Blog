@@ -60,4 +60,4 @@ ER图也叫做实体关系图,由实体,属性和关系组成
 因为对数据库的增删查改会导致级联更新,存在发生数据库更新风暴的风险
 
 - 什么是存储过程?
-dwadjawidjwaddawldjawlidawijji
+dwadjawidjwaddawldjawlidawijjidwadwdadw
