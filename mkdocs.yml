@@ -73,6 +73,8 @@ nav:
   - 博客:
     - 首页: blog/index.md
 
+  - 数据库: javaguide.md
+
 plugins:
   - search # 搜索插件
   # 下方两个插件虽然比较方便，但是 gen-files 与 mkdocs-jupyter 不兼容
