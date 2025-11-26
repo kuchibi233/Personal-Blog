@@ -1,4 +1,4 @@
-# MkDocs 模板
+<!-- # MkDocs 模板
 
 这是一个 MkDocs 模板，可以快速搭建并部署个人博客网页到 GitHub Pages。
 
@@ -40,4 +40,5 @@
 
 ### 2. 模板帖
 
-[跳转至 `docs/blog/posts/hello_world.md` ](docs/blog/posts/hello_world.md#博客示例贴你好-世界)
+[跳转至 `docs/blog/posts/hello_world.md` ](docs/blog/posts/hello_world.md#博客示例贴你好-世界) -->
+这是一个 MkDocs 项目，负责将 Kuchibi 的个人博客网页部署到 GitHub Pages。
